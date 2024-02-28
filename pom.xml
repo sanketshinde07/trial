@@ -241,6 +241,8 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.source.level>1.8</project.source.level>
         <project.target.level>1.8</project.target.level>
+         <sonar.organization>sanketshinde07</sonar.organization>
+         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     </properties>
 
   <profiles>
